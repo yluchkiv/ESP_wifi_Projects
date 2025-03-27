@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/CMakeFiles/bootloader
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/CMakeFiles/bootloader.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/CMakeFiles/bootloader-complete.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/eugene/ARM Projects/ESP_wifi_Projects/esp_wifi_now/Receive/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
