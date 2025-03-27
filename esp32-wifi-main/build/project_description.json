@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "wifi-connection",
-    "project_version":    "1",
+    "project_version":    "46101be-dirty",
     "project_path":       "/home/eugene/ARM Projects/ESP_wifi_Projects/esp32-wifi-main",
     "idf_path":           "/home/eugene/ARM Projects/ESP Projects/v5.4/esp-idf",
     "build_dir":          "/home/eugene/ARM Projects/ESP_wifi_Projects/esp32-wifi-main/build",
